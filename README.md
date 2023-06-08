@@ -13,7 +13,7 @@ pip install tkinter
 ```
 3. Run the program using the following command:
 ```
-python quadcopter_ui.py
+python main.py
 ```
 4. The GUI window will appear, showing the rotor speeds and thrusts for each of the four rotors of the quadcopter.
 
